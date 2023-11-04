@@ -75,3 +75,4 @@ if __name__ == '__main__':
     import sys
     circle_dance(*(float(n) for n in sys.argv[1:]))
     print("End of code")
+    print("Opening main window...")
