@@ -1,4 +1,4 @@
-import turtle
+import turtle #need to do pip install turtle 
 import time
 from math import sin, pi
 from random import random
