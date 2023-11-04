@@ -74,3 +74,4 @@ def draw_dancers(turtles, phase, screen, loops, flip, radius):
 if __name__ == '__main__':
     import sys
     circle_dance(*(float(n) for n in sys.argv[1:]))
+    print("End of code")
