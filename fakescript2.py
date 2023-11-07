@@ -15,7 +15,7 @@ alpha = 0.9
 # Control colour
 colors = np.empty(axes + [4], dtype=np.float32)
  
-colors[:] = [1, 0, 0, alpha]  # red
+colors[:] = [0, 0, 0, alpha]  # changed color
  
 # Plot figure
 fig = plt.figure()
